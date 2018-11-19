@@ -13,6 +13,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-oauth-security/src/main/java/com/spring/securityoauth/springoauthsecurity/api/OAuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-oauth-security/src/main/java/com/spring/securityoauth/springoauthsecurity/config/HttpWebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-oauth-security/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
